@@ -1,5 +1,5 @@
 #while summation code following directions from Readme
-n=int(input("enter a number:"))
+n=int(input())
 t=0
 p=0
 c=0

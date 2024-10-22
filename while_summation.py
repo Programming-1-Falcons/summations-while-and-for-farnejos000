@@ -1,4 +1,4 @@
-#while summation code following directions from Readme
+#while summation code following directions from Readme 
 n=int(input())
 t=0
 p=0

@@ -5,8 +5,7 @@ p=0
 c=0
 while n>t:
     t=t+1
-    print(t)
 while n>p:
     p=p+1
     c=p+c
-print("the answer is",c)
+print(c)

@@ -1,7 +1,8 @@
 #for Summation code here
-n=int(input("enter a number:"))
+n=int(input(""))
 t=0
+p=0
 for t in range(n):
    t=t+1
-
-print(t)
+   p=p+t
+print(p)
